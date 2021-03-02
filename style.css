@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(#FF0000 0%, #0000FF 100%);
+    background: repeat=no-repeat;
+    text-align: center;
+}
+
+#my inspiration{
+    width: 100%;
+    height:800px;
+    background-color: aquamarine;
+}
+.line{
+    height: 6px;
+    background-color: darkviolet;
+        width: 70px;
+    margin: 8px auto;
+}
+h1{
+    text-align: center;
+}
+img{
+    transition: transfrom .2s;
+}
+img:hover{
+    transform:scale(0.9);
